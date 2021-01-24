@@ -2,4 +2,4 @@
 ASN1 parser, written in Clojure
 
 # Usage
-lein run <path to the certificate file>
+lein run \<path to the certificate file\>
